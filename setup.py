@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cldcatplot',
-    version='0.2',
+    version='0.3',
     license='MIT',
     author="Dominik Both",
     author_email='py@dboth.de',
